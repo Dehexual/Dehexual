@@ -1,4 +1,3 @@
-# Dehexual
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:090E17,50:102A43,100:0077B6&text=DEHEXUAL&fontSize=42&fontColor=CAF0F8&fontAlignY=42&desc=Personal%20Apps%20%7C%20Independent%20Experiments&descSize=14&descAlignY=65&descColor=90E0EF" width="100%" alt="Dehexual — Personal Apps and Experiments" />
@@ -35,11 +34,11 @@ Some projects are developed with AI-assisted coding. Their implementation and de
 
 ## `03` — Development Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&theme=dark" alt="Kotlin, Android Studio, and Gradle" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,gradle,git,github,vscode&theme=dark" alt="Kotlin, Python, Android Studio, Gradle, Git, GitHub, and VS Code" />
 </p>
 
-<sub>Technologies associated with my Android projects.</sub>
+<sub>Tools and technologies used across my personal projects.</sub>
 
 ## `04` — Current Direction
 
