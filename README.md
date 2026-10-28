@@ -39,7 +39,7 @@ A personal Android application focused on habit tracking and maintaining daily s
 
 The goal is to make it easier to build consistent routines and keep track of personal progress.
 
-**Status:** In Development
+**Status:** Completed
 
 ### YT-Downloader
 
@@ -53,25 +53,11 @@ Built as a standalone project focused on providing a straightforward downloading
 
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,gradle,git,github,vscode&theme=dark" alt="Kotlin, Python, Android Studio, Gradle, Git, GitHub, and VS Code" />
+</p>
 
-**Languages**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Android Development**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+<sub>Tools and technologies used across my personal projects.</sub>
 
 ---
 
