@@ -1,79 +1,133 @@
 <div align="center">
 
-# DEHEXUAL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,14,6&height=180&section=header&text=DEHEXUAL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Developer%20%7C%20Personal%20Projects%20%7C%20Experimentation&descAlignY=55&descSize=15" width="100%" />
 
-**Independent Developer · Personal Projects · Android Apps**
+</div>
 
-*Building useful things, one project at a time.*
+<br/>
 
-<br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Android-Development-3DDC84?style=flat" />
-<img src="https://img.shields.io/badge/Kotlin-Projects-7F52FF?style=flat" />
-<img src="https://img.shields.io/badge/Open%20Source-Experiments-white?style=flat" />
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=DEHEXUAL&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-Dehexual is where I build personal applications and experiment with software ideas.
+I'm an independent developer who enjoys building applications, experimenting with software ideas, and turning concepts into working projects.
 
-The focus is on standalone apps, practical utilities, and turning concepts into working builds.
+This account is my space for personal apps, Android development, small utilities, and experiments that I want to build outside my main GitHub profile.
 
-Some projects are developed with AI-assisted coding. Their implementation and development progress may vary from project to project.
+I prefer learning by building. Some projects are practical tools, while others are experiments to explore different approaches, technologies, and ideas.
 
-### Projects
+My focus is simple: build something useful, improve it over time, and keep learning along the way.
 
-<table>
-<tr>
-<td width="50%">
+> *"Good ideas are worth building. Small projects are where they begin."*
 
-**Steady**
+---
 
-A habit and streak tracker designed to help users stay consistent with their daily routines.
+## Projects
 
-`Android` `In Development`
+### Steady
 
-</td>
-<td width="50%">
+A personal Android application focused on habit tracking and maintaining daily streaks.
 
-**YT-Downloader**
+The goal is to make it easier to build consistent routines and keep track of personal progress.
 
-A utility project focused on downloading YouTube videos.
+**Status:** In Development
 
-`Utility` `Completed`
+### YT-Downloader
 
-</td>
-</tr>
-</table>
+A utility project designed for downloading YouTube videos.
 
-### Tech I Use
+Built as a standalone project focused on providing a straightforward downloading workflow.
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,gradle,git,vscode&theme=dark" alt="Development tools and technologies" />
-</p>
+**Status:** Completed
 
-### What I'm Working On
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Android Development**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEHEXUAL&show_icons=true&theme=tokyonight&hide_border=true" alt="DEHEXUAL GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEHEXUAL&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEHEXUAL&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## Currently Working On
 
 - Developing standalone Android applications.
-- Exploring new ideas through small projects.
-- Experimenting with AI-assisted coding.
-- Improving existing projects over time.
+- Working on Steady, a personal habit-tracking app.
+- Experimenting with application ideas and small utilities.
+- Exploring AI-assisted coding workflows.
+- Improving existing projects and learning through implementation.
 
-### A Few Things
+---
 
-- Projects here are built around personal interests and experiments.
-- Development status depends on the individual project.
-- Some applications may still be under development.
+## Development Philosophy
+
+- Build projects that solve a real problem or explore an interesting idea.
+- Keep experimenting instead of waiting for the perfect idea.
+- Learn by writing code and improving it through practice.
+- Treat unfinished projects as part of the development process.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/DEHEXUAL">
+  <img src="https://img.shields.io/badge/GitHub-DEHEXUAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Less talking. More building.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer" width="100%" />
 
-<sub>DEHEXUAL / Personal Projects</sub>
+*Turning ideas into applications, one project at a time.*
 
 </div>
