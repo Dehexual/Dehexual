@@ -76,10 +76,5 @@ I work on Android applications, useful utilities, and experimental projects. Eac
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454545,50:242424,100:090909&height=100&section=footer" width="100%" />
 
-<br/>
-
-**Turning ideas into applications, one project at a time.**
-
-<sub>DEHEXUAL · Personal Software Projects</sub>
 
 </div>
