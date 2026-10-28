@@ -1,23 +1,22 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:090E17,50:102A43,100:0077B6&text=DEHEXUAL&fontSize=42&fontColor=CAF0F8&fontAlignY=42&desc=Personal%20Apps%20%7C%20Independent%20Experiments&descSize=14&descAlignY=65&descColor=90E0EF" width="100%" alt="Dehexual — Personal Apps and Experiments" />
-</p>
+# DEHEXUAL
 
-<p align="center">
-  <strong>Personal Apps · Android Development · Small Utilities</strong>
-  <br />
-  <sub>Ideas turned into applications.</sub>
-</p>
+**Independent Developer · Personal Projects · Android Apps**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Android-0B1220?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
-  <img src="https://img.shields.io/badge/Language-Kotlin-102A43?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Build-Gradle-0077B6?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-</p>
+*Building useful things, one project at a time.*
+
+<br>
+
+<img src="https://img.shields.io/badge/Android-Development-3DDC84?style=flat" />
+<img src="https://img.shields.io/badge/Kotlin-Projects-7F52FF?style=flat" />
+<img src="https://img.shields.io/badge/Open%20Source-Experiments-white?style=flat" />
+
+</div>
 
 ---
 
-## `01` — About
+### About Me
 
 Dehexual is where I build personal applications and experiment with software ideas.
 
@@ -25,32 +24,56 @@ The focus is on standalone apps, practical utilities, and turning concepts into 
 
 Some projects are developed with AI-assisted coding. Their implementation and development progress may vary from project to project.
 
-## `02` — Projects
+### Projects
 
-| Project | Description | Status |
-|---|---|---|
-| **Steady** | A personal habit and streak-tracking Android app. | APK build in progress |
-| **YT-Downloader** | A utility for downloading YouTube videos. | Completed |
+<table>
+<tr>
+<td width="50%">
 
-## `03` — Development Stack
+**Steady**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,gradle,git,github,vscode&theme=dark" alt="Kotlin, Python, Android Studio, Gradle, Git, GitHub, and VS Code" />
+A habit and streak tracker designed to help users stay consistent with their daily routines.
+
+`Android` `In Development`
+
+</td>
+<td width="50%">
+
+**YT-Downloader**
+
+A utility project focused on downloading YouTube videos.
+
+`Utility` `Completed`
+
+</td>
+</tr>
+</table>
+
+### Tech I Use
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,python,androidstudio,gradle,git,vscode&theme=dark" alt="Development tools and technologies" />
 </p>
 
-<sub>Tools and technologies used across my personal projects.</sub>
+### What I'm Working On
 
-## `04` — Current Direction
+- Developing standalone Android applications.
+- Exploring new ideas through small projects.
+- Experimenting with AI-assisted coding.
+- Improving existing projects over time.
 
-- Building standalone Android applications.
-- Experimenting with AI-assisted development.
-- Turning personal ideas into usable software.
-- Developing projects incrementally.
+### A Few Things
+
+- Projects here are built around personal interests and experiments.
+- Development status depends on the individual project.
+- Some applications may still be under development.
 
 ---
 
-<p align="center">
-  <strong>Build ideas. Ship applications.</strong>
-  <br />
-  <sub>Dehexual · Personal software projects</sub>
-</p>
+<div align="center">
+
+**Less talking. More building.**
+
+<sub>DEHEXUAL / Personal Projects</sub>
+
+</div>
